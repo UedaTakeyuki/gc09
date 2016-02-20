@@ -1,7 +1,5 @@
 # coding:utf-8 Copy Right Atelier UEDA🐸 © 2016 -
 #
-# require: 'usbrh' 
-# http://www.infiniteloop.co.jp/blog/2013/02/raspberrypitem/
 import sys 
 sys.path.append("/home/pi/SCRIPT")
 import datetime 

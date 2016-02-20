@@ -1,6 +1,6 @@
 #!/bin/sh -eu 
-# http://qiita.com/youcune/items/fcfb4ad3d7c1edf9dc96
-#trap 'echo NG' ERR
+# detail: http://qiita.com/youcune/items/fcfb4ad3d7c1edf9dc96
+# coding:utf-8 Copy Right Atelier UEDA🐸 © 2016 -
 
 addwpafile=/boot/addwpa.txt #wpa追加定義ファイル
 wpaconf=/etc/wpa_supplicant/wpa_supplicant.conf

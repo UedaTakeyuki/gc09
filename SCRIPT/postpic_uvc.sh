@@ -1,4 +1,5 @@
 #!/bin/bash
+# coding:utf-8 Copy Right Atelier UEDA🐸 © 2016 -
 
 if [ $# -ne 1 ]; then
 	device="video0"

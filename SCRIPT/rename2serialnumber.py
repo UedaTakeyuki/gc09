@@ -1,4 +1,4 @@
-# coding: UTF-8
+# coding:utf-8 Copy Right Atelier UEDA🐸 © 2016 -
 import sys
 import os
 import re
