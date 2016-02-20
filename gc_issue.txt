@@ -1,0 +1,17 @@
+gc09: 画像処理
+
+- jessie lite 2015-11-21
+- addwpa
+- ffmpeg
+
+2016.02.17
+- 暗号化ストレージ
+- ホスト名、パスワード
+
+2016.02.19
+- timelapse 対応
+
+2016.02.20
+- addwpa の SCRIPT への移動と nkf 対応
+- gc09 の完成
+- /boot/document
